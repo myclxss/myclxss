@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">𝗛𝗶 👋😁 𝗜'𝗺 𝗔𝗻𝗵𝘂𝗮𝗿 𝗥𝘂𝗶𝘇.</h1>
 
-<!--
-**AnhuarRuiz/AnhuarRuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
+<!-- <div> -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PainCC&show_icons=true&theme=radical&locale=en&layout=compact" alt="PainCC" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=PainCC&show_icons=true&theme=radical&count_private=true&locale=en" alt="PainCC" />
+</a>
+</p>
+
