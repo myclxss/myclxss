@@ -4,12 +4,12 @@
 
 <!-- <div> -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PainCC&show_icons=true&theme=radical&locale=en&layout=compact" alt="PainCC" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnhuarRuiz&show_icons=true&theme=radical&locale=en&layout=compact" alt="AnhuarRuiz" />
 </p>
 
 <p align="center">
 <a>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=PainCC&show_icons=true&theme=radical&count_private=true&locale=en" alt="PainCC" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnhuarRuiz&show_icons=true&theme=radical&count_private=true&locale=en" alt="AnhuarRuiz" />
 </a>
 </p>
 
