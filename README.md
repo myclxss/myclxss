@@ -3,8 +3,9 @@
 </p>
 
 <!-- <div> -->
+
 <p align="center">
-<img src="https://imgur.com/VOaJwS0" alt="AnhuarRuiz" />
+![my_banner](https://user-images.githubusercontent.com/102453307/187353612-af24c874-8d63-42bb-bc12-7cf6a66bf137.png)
 </p>
 
 <p align="center">
