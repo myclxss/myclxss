@@ -4,7 +4,7 @@
 
 <!-- <div> -->
 <p align="center">
-<img src="[https://imgur.com/a/Mfn7eLM](https://imgur.com/VOaJwS0)" alt="AnhuarRuiz" />
+<img src="https://imgur.com/VOaJwS0" alt="AnhuarRuiz" />
 </p>
 
 <p align="center">
