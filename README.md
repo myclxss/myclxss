@@ -4,5 +4,9 @@
 
 <!-- <div> -->
 <p align="center">
+<img src="https://imgur.com/a/Mfn7eLM" alt="AnhuarRuiz" />
+</p>
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnhuarRuiz&show_icons=true&theme=radical&locale=en&layout=compact" alt="AnhuarRuiz" />
 </p>
