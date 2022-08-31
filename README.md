@@ -1,6 +1,6 @@
 <!-- <div> -->
 
-![Banner_KNY_AD_RAW](https://user-images.githubusercontent.com/102453307/187803900-de5600e3-a4f3-49d9-a858-e747bca058c6.png)
+![Banner_KNY_AD_RAW](https://user-images.githubusercontent.com/102453307/187804024-7fcd5e2d-9a54-4a30-9069-2a2e731673e5.png)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnhuarRuiz&show_icons=true&theme=radical&locale=en&layout=compact" alt="AnhuarRuiz"/>
