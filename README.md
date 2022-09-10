@@ -1,6 +1,6 @@
 <!-- <div> -->
 
-![Banner_KNY_AD_RAW](https://user-images.githubusercontent.com/102453307/187804024-7fcd5e2d-9a54-4a30-9069-2a2e731673e5.png)
+![macos-monterey-dawn-5k-l8-3840x2400](https://user-images.githubusercontent.com/102453307/189504012-e7e946b6-7b9d-4a82-9a49-988864af0c2f.jpg)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnhuarRuiz&show_icons=true&theme=radical&locale=en&layout=compact" alt="AnhuarRuiz"/>
